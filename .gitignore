@@ -1,2 +1,5 @@
 bun.lockb
 node_modules/
+
+# Optional npm cache directory
+.npm
